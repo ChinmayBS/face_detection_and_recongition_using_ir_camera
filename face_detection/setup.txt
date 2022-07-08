@@ -1,6 +1,13 @@
--  Before running main.py in face_detection download weights for haarcascade model from the link 
-https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
-
+- create a folder data in the current directory
 
 - Next download dataset(IR camera footage ) from drive link (video folder)
 https://drive.google.com/drive/folders/132Zybl3wneApp-KzNCiRgeLE2hSUWCEC?usp=sharing
+and place it inside data directory 
+
+-  Before running main.py in face_detection download weights for haarcascade model from the link 
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+and place it in current directory
+
+
+
+
